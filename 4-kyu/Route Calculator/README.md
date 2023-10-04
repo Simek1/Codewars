@@ -36,4 +36,5 @@ calculate('10-9p')   =>  '400: Bad request'
 - Unary minus (10*-1)
 - Bad mathematical input (10**$10 or 5+5$)
 - You may have to deal with floats
+  
 If enjoy this and want something harder please see http://www.codewars.com/kata/evaluate-mathematical-expression/ for making a much more complicated calculator. This is a good kata leading up to that.
